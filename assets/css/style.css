@@ -1,0 +1,227 @@
+* {
+margin: 0; padding: 0;	
+font-family: 'Poppins', sans-serif;
+}
+.wrapper {
+width: 1150px;
+margin: 0px auto;	
+}
+.TBar {
+width: 100%;
+height: 50px;	
+}
+.TBarText {
+width: 700px;
+float: left;	
+}
+.TBar p {
+line-height: 50px;	
+}
+
+.TNav {
+float: right;
+height: 30px;
+margin: 10px 0px;
+}
+.TNav ul {
+list-style: none;
+float: left;	
+}
+.TNav ul li {
+display: inline;
+padding: 2px;
+padding-right: 0px;	
+}
+.TNav ul li a {
+color: grey;
+text-decoration: none;
+line-height: 30px;
+padding: 10px;	
+padding-right: 0;
+}
+.header {
+width: 100%;
+height: 70px;    
+}
+.header h1 {
+float: left;    
+line-height: 70px;
+}
+.header p {
+float: right;
+line-height: 70px;  
+padding-right: 3px;
+}
+
+
+.Nav {
+margin: 0 auto;
+background: rgb(65, 65, 65);
+width: 100%;
+height: 50px;
+}
+.list {
+height: 50px;
+width: 600px;
+float: left;	
+}		
+.Nav ul {
+list-style: none;	
+}
+.Nav ul li {
+line-height: 50px;
+font-size: 15px; 
+text-align: center;	
+}
+.Nav ul	li a {
+float: left;	
+width: 70px;
+text-decoration: none;
+color: white;
+background: rgb(80, 80, 80);
+margin-right: 2px;
+}
+.Nav ul	li a:hover {
+background: maroon;
+}
+.SearchBar {
+float:	right;
+height: 40px; width: 230px;
+background: white;
+margin: 5px; margin-right: 0px;
+padding-left: 30px;
+line-height: 40px;
+color: 	grey;
+font-size: 	18px;
+margin-right: 10px;
+}
+
+.container1 {
+width: 100%;
+height: 605px; 
+float: left;   
+}
+.Cat {
+width: 290px;
+height: 600px;
+border: 0.75px solid lightgrey;
+float: left;
+margin: 3px; margin-left: 0;
+}
+.Cat h3 {
+background: maroon; 
+color: white;
+height: 50px;
+line-height: 50px; 
+padding-left: 10px;   
+}
+.Catitem {
+line-height: 45.8333333333px; 
+padding-left: 20px;  
+color: grey; 
+}
+
+.Banner {
+width: 850px;
+height: 600px;
+border: 0.75px solid lightgrey;
+float: left;
+margin: 3px; margin-right: 0;
+}
+.Banner span {
+text-align: center;   
+color: maroon; 
+}
+.box1a {
+margin: 50px 0 50px 50px;    
+width: 350px;
+float: left;  
+height: 500px;
+}
+.button {
+background: maroon;
+color: white;
+width: 120px;
+height: 50px;
+line-height: 50px;
+text-align: center;    
+}
+.Banner .button {
+margin-top: 10px;    
+}
+
+.box1b {
+width: 450px;
+float: left;  
+height: 500px;
+}
+.box1b img {
+width: 400px;
+height: 450px;    
+}
+
+.Pbar {
+border: 0.75px solid lightgrey; 
+height: 30px;
+width: 100%;
+float: left;   
+line-height: 30px;
+margin: 3px 0;
+}
+.Pbar h3 {
+padding-left: 20px;    
+}
+.Pbar p {
+padding-right: 3px;
+font-size: 13px;    
+}
+
+.container2 {
+width: 100%;
+height: 300px; 
+float: left;  
+}
+.box2 {
+width: 275px; 
+height: 300px;  
+border: 0.75px solid lightgrey;  
+float: left;
+margin-left: 13px;
+}
+.box2a {
+width: 275px; 
+height: 300px;  
+border: 0.75px solid lightgrey;  
+float: left;
+margin-left: 0px;
+}
+.box2b {
+width: 278px; 
+height: 300px;  
+border: 0.75px solid lightgrey;  
+float: left;
+margin-left: 13px;
+}
+.container2 img {
+width: 250px;
+height: 220px;
+margin-left: 10px;    
+}
+.container2 h4 {
+text-align: center;  
+border-bottom: 2px maroon solid;  
+}
+.container2 p {
+padding-left: 5px; padding-top: 10px; 
+float: left; 
+ 
+}
+.button1 {
+background: maroon;
+color: white;
+width: 110px;
+height: 40px;
+line-height: 40px;
+text-align: center;  
+float: right;  
+}
